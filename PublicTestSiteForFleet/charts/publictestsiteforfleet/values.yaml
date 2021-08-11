@@ -6,7 +6,7 @@ replicaCount: 1
 image:
   repository: publictestsiteforfleet
   # Change stable to latest
-  tag: latest
+  tag: release-v1.0.1
   pullPolicy: IfNotPresent
 imagePullSecrets: []
   # Optionally specify an array of imagePullSecrets.
