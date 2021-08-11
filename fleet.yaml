@@ -1,0 +1,4 @@
+namespace: public-test-site-for-fleet
+
+helm:
+  chart: ./PublicTestSiteForFleet/charts/publictestsiteforfleet
